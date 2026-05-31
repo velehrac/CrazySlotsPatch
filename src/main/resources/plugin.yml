@@ -1,0 +1,6 @@
+name: CrazySlotsPatch
+version: 1.0
+main: cz.crazyslotspatch.CrazySlotsPatch
+api-version: '1.21'
+depend: [AltarSMP]
+description: Patches CrazySlots recipe
